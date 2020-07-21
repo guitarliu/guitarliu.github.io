@@ -31,17 +31,18 @@ disqus_shortname:   Yong Liu
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            Guitarliu
+  #plus:            #username
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
-#bing-verify:
-email:              https://whuliuxiaoyong@163.com
+bing-verify:
+email:              whuliuxiaoyong@163.com
 #twitter:            username
 #facebook:           username
 github-url:         guitarliu
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     
+123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
