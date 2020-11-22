@@ -7,7 +7,7 @@ language-pack-zh-hant-base
 ~~~
 sudo apt-get install language-pack-zh-han*
 
-i~~~
+~~~
 ## 修改配置文件locale
 ~~~
 vim /etc/default/locale
