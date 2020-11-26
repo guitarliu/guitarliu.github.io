@@ -16,16 +16,20 @@
 // This is a different sort of comment.
 ~~~
 这类注释可用于语句的说明文档，因为他们都放在一行上:
-<A statement>;      // Explanation of statement
+~~~
+<a statement>;      // Explanation of statement
+~~~
 下面的语句错误:
 // So is this,
    but this bit isn't.
 第二行代码会被解释为C#代码。
 * 注释三
+~~~
 /// A special comment
+~~~
 ### 代码大纲功能
 ~~~
-#region  Using directives
+#region Using directives
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,6 +39,6 @@ using System.Threading.Tasks;
 ~~~
 ---
 ### **_剩余细节语法自行查看官方文档_**
-***[C#官方文档中文版](https://docs.microsoft.com/zh-cn/dotnet/csharp/)***
+***[C#官方文档中文版](https://docs.microsoft.com/zh-cn/dotnet/csharp/)*** 
 ***[C#官方文档英文版](https://docs.microsoft.com/en-US/dotnet/csharp/)***
 
