@@ -1,6 +1,7 @@
 ### 更换ubuntu 20.04版本软件源
 
-sudo nano /etc/apt/sources.list
+    sudo nano /etc/apt/sources.list
+
 将原有deb源全部注释掉（前方加一个#即可），然后将下面的源粘贴到文本最后：
 
     deb <http://mirrors.aliyun.com/ubuntu/> focal main restricted universe multiverse
