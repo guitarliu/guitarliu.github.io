@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Python3 Functions"
+date: 2020-07-30
+excerpt: "Examples and code for displaying Python3 functions in posts."
+tags: [Python3 Syntax]
+comments: true
+---
+
 ### 字典dict的keys()方法
 ~~~ 
 >>> dict = {"a": 1, "b": 2}
