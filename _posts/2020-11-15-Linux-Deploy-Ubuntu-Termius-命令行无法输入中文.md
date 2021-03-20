@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Linux-Deploy Ubuntu Termius 命令行无法输入中文"
+date: 2020-11-15
+excerpt: "解决Linux-Deploy ubuntu命令行无法输入中文的问题."
+tags: [Linux-Deploy, Ubuntu, 中文输入]
+comments: true
+---
+
 ## Linux Deploy容器内安装Ubuntu后，Termius连接终端无法输入中文
 需要安装中文语言包：
 language-pack-zh-hans（简体中文）

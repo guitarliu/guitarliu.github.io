@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Csharp Notebook of Chapter3"
+date: 2020-11-24
+excerpt: "Examples and code for displaying Csharp."
+tags: [Csharp, codes, syntax]
+comments: true
+---
+
 ## Chapter3 变量和表达式
 ### Csharp注释的两种方式
 * 注释一

@@ -1,3 +1,12 @@
+---
+layout: post
+title: "How to Replace Texts in CAD files with Python"
+date: 2021-03-05
+excerpt: "Solution for replacing texts in CAD with python modules."
+tags: [AutoCAD, Replace Texts, Python]
+comments: true
+---
+
 ### 利用Pyautocad批量打开并替换CAD文件(.dwg)中文字或特定字符
 #### 遇到的问题
 - 纯Python代码运行速度缓慢, 特别是进行多个文件中特定文字的批量替换时, 反倒不如CAD自带的find命令好用,唯一不足的是find命令需要手动输入并点击.
