@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux Xforce桌面安装及使用"
+title:  "Linux Xforce桌面安装及使用"
 date: 2021-03-17
 excerpt: "How to install xforce desktop on Linux and connect it on Windows10."
 tags: [Ubuntu, Xforce Desktop, Remote connection]
