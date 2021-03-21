@@ -7,7 +7,7 @@ tags: [Ubuntu and Windows, SSH, File Transport]
 comments: true
 ---
 
-### ​​Ubuntu端安装并启动ssh服务:
+### Ubuntu端安装并启动ssh服务:
 
 ~~~
 sudo apt-get install openssh-server
