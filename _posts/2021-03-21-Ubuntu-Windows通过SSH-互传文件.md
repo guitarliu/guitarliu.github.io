@@ -7,7 +7,6 @@ tags: [Ubuntu and Windows, SSH, File Transport]
 comments: true
 ---
 
-
 ### ​​Ubuntu端安装并启动ssh服务:
 
 ~~~
@@ -18,8 +17,9 @@ sudo service ssh start
 ### Windows10端安装ssh服务:
 
 Windows10端系统自带openssh服务，所以只需在命令行调用即可。如下图：
+
 <figure>
-    <a href="http://blog.askadc.com/wp-content/uploads/2020/04/check-openssh.jpg"</a>
+    <a href="http://blog.askadc.com/wp-content/uploads/2020/04/check-openssh.jpg"><img src="http://blog.askadc.com/wp-content/uploads/2020/04/check-openssh.jpg"></a>
 </figure>
 
 ### Windows10通过ssh连接Ubuntu服务器
