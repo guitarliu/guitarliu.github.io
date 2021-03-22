@@ -13,16 +13,16 @@ comments: true
 
 将原有deb源全部注释掉（前方加一个#即可），然后将下面的源粘贴到文本最后：
 
-    deb <http://mirrors.aliyun.com/ubuntu/> focal main restricted universe multiverse
-    deb-src <http://mirrors.aliyun.com/ubuntu/> focal main restricted universe multiverse
-    deb <http://mirrors.aliyun.com/ubuntu/> focal-security main restricted universe multiverse
-    deb-src <http://mirrors.aliyun.com/ubuntu/> focal-security main restricted universe multiverse
-    deb <http://mirrors.aliyun.com/ubuntu/> focal-updates main restricted universe multiverse
-    deb-src <http://mirrors.aliyun.com/ubuntu/> focal-updates main restricted universe multiverse
-    deb <http://mirrors.aliyun.com/ubuntu/> focal-proposed main restricted universe multiverse
-    deb-src <http://mirrors.aliyun.com/ubuntu/> focal-proposed main restricted universe multiverse
-    deb <http://mirrors.aliyun.com/ubuntu/> focal-backports main restricted universe multiverse
-    deb-src <http://mirrors.aliyun.com/ubuntu/> focal-backports main restricted universe multiverse
+    deb http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+    deb-src http://mirrors.aliyun.com/ubuntu/ focal main restricted universe multiverse
+    deb http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+    deb-src http://mirrors.aliyun.com/ubuntu/ focal-security main restricted universe multiverse
+    deb http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+    deb-src http://mirrors.aliyun.com/ubuntu/ focal-updates main restricted universe multiverse
+    deb http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+    deb-src http://mirrors.aliyun.com/ubuntu/ focal-proposed main restricted universe multiverse
+    deb http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
+    deb-src http://mirrors.aliyun.com/ubuntu/ focal-backports main restricted universe multiverse
 
 ctrl + x 退出编辑并保存。
 
@@ -53,7 +53,7 @@ Linux终端命令行输入 ifconfig 即可。如果提示找不到命令（实�
 
 ### 向xsession中写入xfce4-session
 
-    sudo echo xfce4-session >~/xsession
+    sudo echo xfce4-session >~/.xsession
 
 ### 重启xrdp服务
 
