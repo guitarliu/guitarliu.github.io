@@ -30,24 +30,23 @@ ssh username@hostname -p port
 
 - username为Linux端用户名
 
-- hostname为Linux端IP地址，查找Linux端IP地址可用ifconfig；如果输入ifconfig报
-- 错，说明Linux端未安装ifconfig，需要通过sudo apt-get install ifconfig 安装 ifconfig
+- hostname为Linux端IP地址，查找Linux端IP地址可用ifconfig；如果输入ifconfig报错，说明Linux端未安装ifconfig，需要通过sudo apt-get install ifconfig 安装 ifconfig
 - port为ssh端口，默认为22
 
 ### 上传Windows10文件至Linux端
 
-- 上传Windows10桌面某一文件至Linux端某一文件夹处。打开Windows10终端，输入以下命令:
+- 上传Windows10某一路径下某一文件至Linux端某一文件夹处。打开Windows10终端，输入以下命令:
 
   ~~~
-  scp c:/users/username/Desktop username@hostname:path/destination_filename
+  scp [windows-filespath/filename] username@hostname:path/destination_filepath
   ~~~
 
-- 上述第一个username为Windows10的用户名，第二个username为Linux端用户名
+- 上述windows-filespath/filename为Windows10的文件名，username为Linux端用户名
   
 - 如果需要上传文件夹至Linux端，只需在scp后面加一个 -r 即可，即：
   
   ~~~      
-  scp -r c:/users/username/Desktop/test username@hostname:destination_dir
+  scp -r [windows-filespath/filename] username@hostname:destination_dir
   ~~~
 
 ### 下载Linux至Windows10
@@ -57,13 +56,13 @@ ssh username@hostname -p port
    - 打开Windows10终端，输入以下命令:
     
     ~~~    
-    scp username@hostname:path/sourcefilename c:/users/username/Desktop
+    scp username@hostname:path/sourcefilename [windows-destination-path]
     ~~~  
     
-    上述第一个username为Linux的用户名，第二个username为Windows10端用户名
+    上述username为Linux的用户名，[windows-destination-path]为Windows10端文件夹
   
     如果需要下载文件夹至Windows10，只需在scp后面加一个 -r 即可，即：
 
     ~~~
-    scp -r username@hostname:path/source_dirname c:/users/username/Desktop
+    scp -r username@hostname:path/source_dirname [windows-destination-path]
     ~~~
