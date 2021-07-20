@@ -1,19 +1,14 @@
 ---
-Layout:post
-
-title:"Python开发AUTOCAD插件过程中利用AUTOCAD函数参数注意事项"
-
-date:2021-07-20
-
-excerpt:"Cautions for Autocad Functions's paraneters during developing a PLugin with Python"
-
-tags:[AutoCAD,Software,PLugi,Cautions,Function Parameters,Python]
-
-comments:ture
+Layout: post
+title: "Python开发AUTOCAD插件过程中利用AUTOCAD函数参数注意事项"
+date: 2021-07-20
+excerpt: "Cautions for Autocad Functions's paraneters during developing a PLugin with Python"
+tags: [Autocad, Software, Plugin, Cautions, Function Parameters, Python]
+comment:true
 ---
 
 #### 注意事项——Python传参类型不同于VBA
-
+---
 ```
 RetVal ＝ object．IntersectWith（IntersectObject，ExtendOption)
 ```
