@@ -8,11 +8,12 @@ comments: true
 ---
 
 
-<center>
 
-![](https://pixabay.com/get/g5963dcafed70322f21052fa8b6c63dd3e1e31fb6230326b64fc25e9a55db65af48d07667a3cc010c6970f9e6a7af8bc21f3cb3ae571bf4d719aa3002e8adc18c34dec1bec610d9173184144a43750be9_640.jpg)<br><br>
 
-</center>
+<figure align=center>
+	<a href="https://pixabay.com/get/g5963dcafed70322f21052fa8b6c63dd3e1e31fb6230326b64fc25e9a55db65af48d07667a3cc010c6970f9e6a7af8bc21f3cb3ae571bf4d719aa3002e8adc18c34dec1bec610d9173184144a43750be9_640.jpg"><img src=https://pixabay.com/get/g5963dcafed70322f21052fa8b6c63dd3e1e31fb6230326b64fc25e9a55db65af48d07667a3cc010c6970f9e6a7af8bc21f3cb3ae571bf4d719aa3002e8adc18c34dec1bec610d9173184144a43750be9_640.jpg></a>
+</figure>
+
 
 ##### 📌 首先安装MongoDB Shell
 访问[MongoDB Shell](https://www.mongodb.com/try/download/shell)，选择Debian / Ubuntu 64-bit, deb格式，复制下载链接https://downloads.mongodb.com/compass/mongodb-mongosh_1.1.7_amd64.deb；<br>

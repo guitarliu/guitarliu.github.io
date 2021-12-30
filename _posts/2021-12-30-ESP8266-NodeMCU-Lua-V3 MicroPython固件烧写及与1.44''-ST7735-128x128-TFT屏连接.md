@@ -7,11 +7,11 @@ tags: [MicroPython, ESP8266-NodeMCU-Lua-V3, Firmware Programming, ST7735, Connec
 comments: true
 ---
 
-<center>
 
-![](https://pixabay.com/get/gb9f29b22639acb2aa3bcd160d948fae4cc2ee50b11bc0d0d6c44cb1547790c171825cf3b13a1ba34dd03cd4493224b7db26b65fa66577b73dc00b9a102fa52cba2b904f9d0226634db8c12cd1172a283_1280.jpg)<br><br>
+<figure align=center>
+	<a href="https://pixabay.com/get/gb9f29b22639acb2aa3bcd160d948fae4cc2ee50b11bc0d0d6c44cb1547790c171825cf3b13a1ba34dd03cd4493224b7db26b65fa66577b73dc00b9a102fa52cba2b904f9d0226634db8c12cd1172a283_1280.jpg"><img src=https://pixabay.com/get/gb9f29b22639acb2aa3bcd160d948fae4cc2ee50b11bc0d0d6c44cb1547790c171825cf3b13a1ba34dd03cd4493224b7db26b65fa66577b73dc00b9a102fa52cba2b904f9d0226634db8c12cd1172a283_1280.jpg></a>
+</figure>
 
-</center>
 
 
 ##### 材料清单
