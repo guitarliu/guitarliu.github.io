@@ -10,14 +10,12 @@ comments: false
 ---
 #### 金山大桥慢行系统改造工程
 
-- 📢 简介：金山大桥于2009年建成通车，位于我市南北向主要交通干道上，北边惠州大道，南接金山大道，横跨西枝江、新开河，桥面采用一级公路标准设计建设，未设计独立的非机动车道，目前电动自行车利用最外侧硬路肩通行。其中金山立交是一座连接江北、东平、河南岸、水口及金山湖片区的五路交叉3层全互通立交，交通组织较为复杂。
+- 📢 简介：金山大桥于2009年建成通车，位于我市南北向主要交通干道上，北边惠州大道，南接金山大道，横跨西枝江、新开河，桥面采用一级公路标准设计建设，未设计独立的非机动车道，目前电动自行车利用最外侧硬路肩通行。其中金山立交是一座连接江北、东平、河南岸、水口及金山湖片区的五路交叉3层全互通立交，交通组织较为复杂。  
 &ensp;&ensp;&ensp;&ensp;本工程沿现状金山立交匝道最外侧新5条3.5m(净宽)慢行道(慢行桥)，通过新建5座6m(净宽)下穿通道与内侧新建6m(净宽)环形慢行道(慢行桥)相连，形成全互通立体交叉慢行系统网络，该方案通过交通管控措施，增加警示标志牌引导行人和非机动车按新的路线规范通行，保证安全。
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/金山立交.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -37,9 +35,7 @@ comments: false
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/龙山十路.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -56,9 +52,7 @@ comments: false
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/陈江二污.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -78,9 +72,7 @@ comments: false
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/永平污水厂.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -98,9 +90,7 @@ comments: false
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/沥林八污.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
   
@@ -116,9 +106,7 @@ comments: false
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/9#工作井.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -135,9 +123,7 @@ comments: false
 
 <br>
 <center>
-<video id="video" controls="" preload="auto" width=100% height=100% object-fit="contain" outline="none">
-      <source id="mp4" src="c:/users/xiaotaiye/desktop/消防水池.mp4" type="video/mp4">
-</videos>
+<iframe width="800" height="600" src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
