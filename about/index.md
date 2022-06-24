@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: Liu Yong
 tags: [Resume, Liuyong, BIM, Design, Coding]
 date: 2022-06-09
 comments: false
@@ -14,7 +14,7 @@ comments: false
 &ensp;&ensp;&ensp;&ensp;本工程沿现状金山立交匝道最外侧新5条3.5m(净宽)慢行道(慢行桥)，通过新建5座6m(净宽)下穿通道与内侧新建6m(净宽)环形慢行道(慢行桥)相连，形成全互通立体交叉慢行系统网络，该方案通过交通管控措施，增加警示标志牌引导行人和非机动车按新的路线规范通行，保证安全。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -33,7 +33,7 @@ comments: false
 - 📢 简介：本项目位于大亚湾龙海二路以南，石化大道以北，龙山九路以东的上扬片区，其中北侧起点段需跨现状淡澳河。设计全长约1604m，三舱断面607m，四舱断面997m；工程内容包括管廊主体工程、管廊结构工程、管廊桥工程、管廊通风工程、管廊电气与自控工程。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -49,7 +49,7 @@ comments: false
 - 📢 简介：陈江街道办二号污水处理厂位于仲恺高新技术产业开发区陈江街道办青春村原东阁砖石地块，西侧紧邻围河，污水厂总规划占地面积约88064m^2^，总规划规模20万m^3^/d。本期工程建设规模10万m^3^/d(K~z~=1.3),用地面积约30887m^2^，工程建设内容包括新建陈江街道办二号污水处理厂、厂外污水收集管网等内容；其中污水处理厂工程包括厂区内污水、污泥、臭气处理设计，结构、建筑、暖通、电气、仪表自控、消防、厂区景观设计，以及污水厂处理后尾水排放管设计。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -68,7 +68,7 @@ comments: false
 - 📢 简介：潼湖永平污水处理厂一期工程为新建工程，处理规模为1万m³/d，工艺为“采用粗格栅—细格栅—沉砂池—多段AO生物池—二沉池中间提升泵房—高效沉淀池—纤维滤池—紫外消毒渠—尾水排放”。排放标准执行地表水准Ⅳ类（TN≤15mg/L），估算总投资为10023.98万元，建安费用为7579.82万元。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -85,7 +85,7 @@ comments: false
 &ensp;&ensp;&ensp;&ensp;本项目扩建规模为3万m3/d，建成后污水厂总规模为5万m3/d。采用“粗细格栅+旋流沉砂池+AAO-二沉池+高效沉淀池+纤维滤布滤池+紫外线消毒”处理工艺，出水水质由一期的一级A标准提高到二期的地表水准Ⅳ类（TN除外，采用国家一级A标准）。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
   
@@ -100,7 +100,7 @@ comments: false
 - 📢 简介：本项目全长约6.75km，明挖断面尺寸为净宽2.6m、净高2.8-4.4m不同截面，顶管断面尺寸为内径φ3.5m及内径φ3.0m。在碧海路北侧绿化带内新建双回220kV电缆沟，在滨海十二路东侧绿化带内、北环路南侧辅道、规划精工南环路北侧人行道内，新建电缆隧道；新建电缆沟1.08km、 断面尺寸BxH=2.7mx1.9m，新建电缆隧道 5.67km，明挖断面净宽2.6m、净高2.8-4.4m不同截面，顶管断面尺寸为内径φ3.5m及内径φ3.0m。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
@@ -116,7 +116,7 @@ comments: false
 &ensp;&ensp;&ensp;&ensp;本工程设计内容包括景观园林设计及景观设计范围内的消防、绿化灌溉给水、场地排水设计。
 
 <center>
-<iframe width=720 height=600 src="https://www.bilibili.com/video/BV1Fi4y157iH?t=5.3" frameborder="0" allowfullscreen scrolling="no"></iframe>
+<iframe width=720 height=600 src="" frameborder="0" allowfullscreen scrolling="no"></iframe>
 </center>
 <br>
 
